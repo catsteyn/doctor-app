@@ -41,6 +41,6 @@ The application is deployed using a platform-as-a-service (PaaS) provider like H
 
 ### Deployed App
 
-Access the deployed Doctor Appointment Tracker here: https://stormy-dawn-69440-e351ae7d5ba4.herokuapp.com/
+Access the deployed Doctor Appointment Tracker here: https://final-project-doctor-app-2b7c0468a3bc.herokuapp.com/
 
 Feel free to explore the app and manage your doctor appointments with ease! If you encounter any issues or have feedback, please don't hesitate to reach out.
